@@ -106,10 +106,6 @@ REST_FRAMEWORK = {
     )
 }
 
-# SIMPLE_JWT = {
-#   "TOKEN_OBTAIN_SERIALIZER": "authentications.serializers.JwtTokenSerializer",
-# }
-
 
 # Internationalization
 # https://docs.djangoproject.com/en/3.2/topics/i18n/
